@@ -25,9 +25,4 @@ Close button: This component is added to dismiss the alerts of the modals.
 
 Footer: Footer component is also added in the website. 
 
-Team members:-
-Prathamesh Kulkarni
-Shreyas Shetty
-Samiksha Mundas
-Ojasvi Patel
-Shreyas Dasari
+
